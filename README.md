@@ -1,5 +1,4 @@
 # fema-declarations
-predicting fema-declared disasters
 
 <h2> Motivation </h2>
 To determine whether counties can better predict whether a weather event will be declared a disaster and request aid in advance and to help FEMA better plan for the instances in which they will need to provide aid.
